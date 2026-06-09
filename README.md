@@ -1,40 +1,39 @@
 ## Hey
 
-Linux kernel & wireless driver developer based in Germany.
-
-I work at the intersection of low-level networking, 802.11 internals, and kernel driver development — mostly in C.
+Full-stack & systems developer based in Germany.
 
 ---
 
-### What I work on
+### Projects
 
-- **Kernel driver development** — iwlwifi, cfg80211, mac80211 stack
-- **802.11 / Wi-Fi internals** — AP mode, monitor mode, regulatory, PHY configuration
-- **Open source contributions** — Linux kernel ecosystem, security tooling
+| Project | Description | Link |
+|---|---|---|
+| **netcheck** | Network diagnostics — DNS, SSL, HTTP, ports, IP info | [live](https://netcheck-production.up.railway.app) · [repo](https://github.com/BLABLA1000gg/netcheck) |
+| **devutils** | Developer utilities — Base64, JSON, YAML, Hash, Regex, JWT | [live](https://blabla1000gg.github.io/devutils) · [repo](https://github.com/BLABLA1000gg/devutils) |
+| **ax101-5ghz-ap** | Intel AX101 kernel patches + 5GHz AP investigation | [repo](https://github.com/BLABLA1000gg/ax101-5ghz-ap) |
 
 ---
 
-### Recent contributions
+### Open Source Contributions
 
 | Project | What | Link |
 |---|---|---|
-| **aircrack-ng** | Fix: nl80211 channel detection for modern drivers (iwlwifi WEXT removal) | [#2712](https://github.com/aircrack-ng/aircrack-ng/pull/2712) |
-| **aircrack-ng** | Fix: airmon-ng shellcheck SC2059/SC2181 | [#2711](https://github.com/aircrack-ng/aircrack-ng/pull/2711) |
-| **ax101-5ghz-ap** | Kernel patches + investigation: Intel AX101 AP mode on Alpine Linux 6.6 | [repo](https://github.com/BLABLA1000gg/ax101-5ghz-ap) |
+| **aircrack-ng** | Fix nl80211 channel detection for modern iwlwifi drivers | [#2712](https://github.com/aircrack-ng/aircrack-ng/pull/2712) |
+| **aircrack-ng** | Fix airmon-ng shellcheck warnings | [#2711](https://github.com/aircrack-ng/aircrack-ng/pull/2711) |
+| **Linux kernel** | Bug report: Intel AX101 5GHz AP assertion (iwlwifi) | [bugzilla #221622](https://bugzilla.kernel.org/show_bug.cgi?id=221622) |
 
 ---
 
 ### Stack
 
 ```
-Languages   C · Shell · Python
-Kernel      Linux 6.x · cfg80211 · nl80211 · netlink
-Tools       iw · hostapd · aircrack-ng · wireshark · kprobes
-Hardware    Intel CNVi (iwlwifi) · 802.11a/b/g/n/ac/ax
+Languages    Python · JavaScript · C · Shell
+Backend      FastAPI · REST APIs
+Frontend     HTML · CSS · Vanilla JS
+Kernel       Linux 6.x · cfg80211 · nl80211 · kprobes
+Tools        Docker · Railway · Git
 ```
 
 ---
 
-### Links
-
-- Contributions: [github.com/BLABLA1000gg](https://github.com/BLABLA1000gg)
+📍 Germany · Open to remote work
