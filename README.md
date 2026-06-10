@@ -7,10 +7,11 @@ Full-stack & systems developer based in Germany.
 ### Projects
 
 | Project | Description | Link |
-|---|---|---|
+|---|---|---|---|
 | **netcheck** | Network diagnostics — DNS, SSL, HTTP, ports, IP info | [live](https://netcheck-production.up.railway.app) · [repo](https://github.com/BLABLA1000gg/netcheck) |
 | **devutils** | Developer utilities — Base64, JSON, YAML, Hash, Regex, JWT | [live](https://blabla1000gg.github.io/devutils) · [repo](https://github.com/BLABLA1000gg/devutils) |
 | **ax101-5ghz-ap** | Intel AX101 kernel patches + 5GHz AP investigation | [repo](https://github.com/BLABLA1000gg/ax101-5ghz-ap) |
+| **Ebaymonitor** | Arbitrage monitor for eBay/Kleinanzeigen/Vinted AI condition assessment, portal automation, vision check, ROI calculator. | [repo]([https://github.com/BLABLA1000gg/ax101-5ghz-ap](https://github.com/BLABLA1000gg/Ebaymonitor) |
 
 ---
 
