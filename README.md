@@ -1,4 +1,4 @@
-## Hey, I'm Malik
+## Hey,
 
 Full-stack & systems developer based in Germany — open to remote.
 
