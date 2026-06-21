@@ -2,7 +2,8 @@
 
   <img
     alt="BLABLA1000gg profile banner"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:111827&height=190&section=header&text=BLABLA1000gg&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-stack%20%26%20systems%20developer%20from%20Germany&descSize=18&descAlignY=59"
+    src="./assets/profile-banner.svg"
+    width="100%"
   />
 
   <a href="https://git.io/typing-svg">
