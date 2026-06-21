@@ -149,7 +149,8 @@ Document the path        Leave repos understandable for the next developer
 
   <img
     alt="Footer wave"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:6366F1,100:0EA5E9&height=110&section=footer"
+    src="./assets/footer-wave.svg"
+    width="100%"
   />
 
 </div>
